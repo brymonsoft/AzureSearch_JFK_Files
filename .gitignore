@@ -244,3 +244,5 @@ ModelManifest.xml
 
 # custom files
 **/PublishProfiles/*
+
+.idea

@@ -28,8 +28,6 @@ const AzureButtonForMobile = azureButtonFor({ smUp: true });
 export const AzureButtonComponent: React.StatelessComponent<ButtonProps> = (props) => {
   return (
     <>
-      <AzureButtonForDesktop {...props} />
-      <AzureButtonForMobile {...props} />
     </>
   );
 };
